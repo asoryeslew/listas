@@ -3,3 +3,5 @@
 #EXTINF:0 tvg-logo="https://img.onceddl.net/images/qPQCY.png" group-title="FILMES" ,Sonic.the.Hedgehog.2020 [COLOR white][I][B][COLOR lime]»»[/COLOR] IKE [/I][/B][/COLOR]
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:b0a41470477c8136aac0c64948adc17648b87afd&amp
 
+#EXTINF:0 tvg-logo="https://dyncdn.me/mimages/337073/poster_opt.jpg" group-title="FILMES" ,Parasite.2019 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:ffd237d041fe2393a698253bee7887f0ad7f8202&amp
