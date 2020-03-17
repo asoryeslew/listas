@@ -1,5 +1,5 @@
 #EXTM3U
  
-#EXTINF:0 tvg-logo="https://dyncdn.me/mimages/337073/poster_opt.jpg" group-title="FILMES" ,outlander.s01e01 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+#EXTINF:0 tvg-logo="https://dyncdn.me/static/20/tvdb/110890_banner_optimized.jpg" group-title="FILMES" ,outlander.s01e01 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:8E88F186C47EE760277F2EC4EDAE387C7594A666&amp
 
