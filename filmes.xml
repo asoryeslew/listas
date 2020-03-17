@@ -11,3 +11,6 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:e25e8d4018ac8428e848f84737e5
 
 #EXTINF:0 tvg-logo="https://dyncdn.me/mimages/328747/poster_opt.jpg" group-title="FILMES" ,Once.Upon.a.Time.in.Hollywood.2019 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:b4351805ca3024017f5c532aa63a9ff0b438f297&amp
+
+#EXTINF:0 tvg-logo="https://img.yts.mx/assets/images/movies/the_postcard_killings_2020/medium-cover.jpg" group-title="FILMES" ,The Postcard Killings (2020)  [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:600B75F543DD23662D60C63C40FAC612A394CE73&amp
