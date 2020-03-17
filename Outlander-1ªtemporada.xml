@@ -1,5 +1,49 @@
 #EXTM3U
  
-#EXTINF:0 tvg-logo="https://imagecurl.com/viewer.php?file=77417085929352520569.png" group-title="FILMES" ,outlander.s01e01 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+#EXTINF:0 tvg-logo="https://dyncdn.me/static/20/tvdb/110890_banner_optimized.jpg" group-title="FILMES" ,Outlander.S01E01 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:8E88F186C47EE760277F2EC4EDAE387C7594A666&amp
 
+#EXTINF:0 tvg-logo="https://dyncdn.me/static/20/tvdb/110890_banner_optimized.jpg" group-title="FILMES" ,Outlander.S01E02 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:5ab7ea70833fc24ac8022d7f7abc2e6f3a1697e1&amp
+
+#EXTINF:0 tvg-logo="https://dyncdn.me/static/20/tvdb/110890_banner_optimized.jpg" group-title="FILMES" ,Outlander.S01E03 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:96948afc440e4f283f1936eebe386a8c25dc6793&amp
+
+#EXTINF:0 tvg-logo="https://dyncdn.me/static/20/tvdb/110890_banner_optimized.jpg" group-title="FILMES" ,Outlander.S01E04 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:8e88761465fa9b2aa4b3ab9fdf78fe2ad2df2e41&amp
+
+#EXTINF:0 tvg-logo="https://dyncdn.me/static/20/tvdb/110890_banner_optimized.jpg" group-title="FILMES" ,Outlander.S01E05 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:dbb55549d2575c5ffa42ccb2bec1245e5e22e4ee&amp
+
+#EXTINF:0 tvg-logo="https://dyncdn.me/static/20/tvdb/110890_banner_optimized.jpg" group-title="FILMES" ,Outlander.S01E06 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:22c35bf0b5dea5aa3526a279c6bee6bd6e8eaa93&amp
+
+#EXTINF:0 tvg-logo="https://dyncdn.me/static/20/tvdb/110890_banner_optimized.jpg" group-title="FILMES" ,Outlander.S01E07 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:b151c15b6c17b5f1aae3078f8457c7400d47777a&amp
+
+#EXTINF:0 tvg-logo="https://dyncdn.me/static/20/tvdb/110890_banner_optimized.jpg" group-title="FILMES" ,Outlander.S01E08 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:8db82a5808b69f00e8c565f0dbbe0c70e2a5ab84&amp
+
+#EXTINF:0 tvg-logo="https://dyncdn.me/static/20/tvdb/110890_banner_optimized.jpg" group-title="FILMES" ,Outlander.S01E09 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:65b7f1dae32cd39ec9eae3f7f9f5913d658437cd&amp
+
+#EXTINF:0 tvg-logo="https://dyncdn.me/static/20/tvdb/110890_banner_optimized.jpg" group-title="FILMES" ,Outlander.S01E10 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:f6030a5c089665c990f112f0610b29d1fdba124b&amp
+
+#EXTINF:0 tvg-logo="https://dyncdn.me/static/20/tvdb/110890_banner_optimized.jpg" group-title="FILMES" ,Outlander.S01E11 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:09d2b010aac93cee0ac61d094a1b6c10314e0bb8&amp
+
+#EXTINF:0 tvg-logo="https://dyncdn.me/static/20/tvdb/110890_banner_optimized.jpg" group-title="FILMES" ,Outlander.S01E12 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:27b3bace9842bb0441444c89769e7ab736afaef8&amp
+
+#EXTINF:0 tvg-logo="https://dyncdn.me/static/20/tvdb/110890_banner_optimized.jpg" group-title="FILMES" ,Outlander.S01E13 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:c86ae80c522e8f8da0e16d8be281c075fd7312c7&amp
+
+#EXTINF:0 tvg-logo="https://dyncdn.me/static/20/tvdb/110890_banner_optimized.jpg" group-title="FILMES" ,Outlander.S01E14 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:fbe77e95855d2cce8bd9d95375ca479a5c0d960c&amp
+
+#EXTINF:0 tvg-logo="https://dyncdn.me/static/20/tvdb/110890_banner_optimized.jpg" group-title="FILMES" ,Outlander.S01E15 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:69acf7562a0c17be5b5329fd8593e5ffeac8a6ac&amp
+
+#EXTINF:0 tvg-logo="https://dyncdn.me/static/20/tvdb/110890_banner_optimized.jpg" group-title="FILMES" ,Outlander.S01E16 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:2125d9f80d524f6654666f36571f8c1d2526c211&amp
