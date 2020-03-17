@@ -1,0 +1,13 @@
+#EXTM3U
+ 
+#EXTINF:0 tvg-logo="https://dyncdn.me/mimages/337073/poster_opt.jpg" group-title="FILMES" ,Parasite.2019 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:ffd237d041fe2393a698253bee7887f0ad7f8202&amp
+
+#EXTINF:0 tvg-logo="https://dyncdn.me/mimages/40872/poster_opt.jpg" group-title="FILMES" ,The.Irishman.2019 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:d42e534e307bdc79a29c5ed4cf8949e6df5f8aa9&amp
+
+#EXTINF:0 tvg-logo="https://dyncdn.me/mimages/334628/poster_opt.jpg" group-title="FILMES" ,Us.2019 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:e25e8d4018ac8428e848f84737e514df5ab384d6&amp
+
+#EXTINF:0 tvg-logo="https://dyncdn.me/mimages/328747/poster_opt.jpg" group-title="FILMES" ,Once.Upon.a.Time.in.Hollywood.2019 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:b4351805ca3024017f5c532aa63a9ff0b438f297&amp
