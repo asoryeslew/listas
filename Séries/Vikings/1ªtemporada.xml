@@ -1,7 +1,7 @@
 #EXTM3U
  
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/YWa2pIHsS68/maxresdefault.jpg" group-title="FILMES" ,Vikings S01E01 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:DF272B3C621F2D226AA79F06D2FF6696EB1E4AC9&amp
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:749bd7c9d236e89ac7e6af61cb2078f441ed2501&amp
 
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/YWa2pIHsS68/maxresdefault.jpg" group-title="FILMES" ,Vikings S01E02 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:34330F649B11BDBDFC78040B241E267831364D82&amp
