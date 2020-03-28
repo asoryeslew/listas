@@ -1,7 +1,7 @@
 #EXTM3U
  
 #EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81iPE53k7VL._RI_.jpg" group-title="FILMES" ,Blackish S01E01 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:A0E598587E88B01E2C1DC229C7874520DAEFF1E7&amp
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:18b192b8220be84754ce28b51a30cd5e69a43374&amp
 
 #EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81iPE53k7VL._RI_.jpg" group-title="FILMES" ,Blackish S01E02 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:BGKEZEA3Q7PAOQ3SNEORP72YNQKL77X4&amp
