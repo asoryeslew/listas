@@ -1,0 +1,25 @@
+#EXTM3U
+ 
+#EXTINF:0 tvg-logo="https://www.geekgirlauthority.com/wp-content/uploads/2020/12/BRIDGERTON_101_Unit_01005R-1200x640.jpg" group-title="FILMES" ,bridgerton. s01 E01 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:B8C41A9C80007BAF7821C3E63F25AA756DAAB817&amp
+
+#EXTINF:0 tvg-logo="https://scrapsfromtheloft.com/wp-content/uploads/2020/12/Bridgerton-S01E02.jpg" group-title="FILMES" ,bridgerton. s01 E02 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:CAD81F8C1B0D8419DCE2DE2751C6D1BBA3020869&amp
+
+#EXTINF:0 tvg-logo="https://wherever-i-look.com/wp-content/uploads/2020/12/Simon-and-Daphne-Bridgerton-Season-1-Episode-3-Art-of-the-Swoon.jpg" group-title="FILMES" ,bridgerton. s01 E03 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:C3671762B7CC3386BDD76A35F8B04C68E98284A0&amp
+
+#EXTINF:0 tvg-logo="https://www.geekgirlauthority.com/wp-content/uploads/2020/12/Daphne3_BridgertonRecap.jpg" group-title="FILMES" ,bridgerton. s01 E04 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:8215710F9C2F5717DA266B092F770450FC159D14&amp
+
+#EXTINF:0 tvg-logo="https://www.geekgirlauthority.com/wp-content/uploads/2020/12/Daphne5_BridgertonRecap.jpg" group-title="FILMES" ,bridgerton. s01 E05 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:5E2EE139531EE75EF1505FC0CD17879765FC3BCE&amp
+
+#EXTINF:0 tvg-logo="https://scrapsfromtheloft.com/wp-content/uploads/2020/12/Bridgerton-S01E06-Swish.jpg" group-title="FILMES" ,bridgerton. s01 E06 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:1F61DE19E95BDCF11C92CE626AF8EB8995857BC2&amp
+
+#EXTINF:0 tvg-logo="https://www.geekgirlauthority.com/wp-content/uploads/2020/12/Colin2_BridgertonRecap.jpg" group-title="FILMES" ,bridgerton. s01 E07 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:3D2A86EC6E12DACD0084E1710317AF4AABEED1A5&amp
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/5zG5cImYaj0Q3NMoZhvj9G0mRG.jpg" group-title="FILMES" ,bridgerton. s01 E08 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:D361E83035326A8F7A689C29D0616629B99019FB&amp
