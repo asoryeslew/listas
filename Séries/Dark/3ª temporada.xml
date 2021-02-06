@@ -1,0 +1,25 @@
+#EXTM3U
+ 
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/dark-netflix/images/f/fd/DarkS3Poster.jpg" group-title="FILMES" ,Dark .S03E01 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:48BDD6A43D934A56CEAC74EEA057EE28F10544AC&amp
+
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/dark-netflix/images/f/fd/DarkS3Poster.jpg" group-title="FILMES" ,Dark .S03E02 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:C5B0F1418F0E31AD9D24ED955B7991E50AC73B4E&amp
+
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/dark-netflix/images/f/fd/DarkS3Poster.jpg" group-title="FILMES" ,Dark .S03E03 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:7E543DB55222C4EC98E6A31459DF71EEA29040AD&amp
+
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/dark-netflix/images/f/fd/DarkS3Poster.jpg" group-title="FILMES" ,Dark .S03E04 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:71F3699384FD397F76A39026A65AD9886C126704&amp
+
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/dark-netflix/images/f/fd/DarkS3Poster.jpg" group-title="FILMES" ,Dark .S03E05 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:E4256EFD9635E4092F656F99A299DC62EFAC860B&amp
+
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/dark-netflix/images/f/fd/DarkS3Poster.jpg" group-title="FILMES" ,Dark .S03E06 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:7CAA66DD90669A1D430B5AE09119A4FE3DDD4FEF&amp
+
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/dark-netflix/images/f/fd/DarkS3Poster.jpg" group-title="FILMES" ,Dark .S03E07 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:94F734A3A24C12DC36283ED5AF85012FC929BBA3&amp
+
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/dark-netflix/images/f/fd/DarkS3Poster.jpg" group-title="FILMES" ,Dark .S03E08 [COLOR white][I][B][COLOR lime]»»[/COLOR] Wesley [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:D4F8BF6C38867F877ED3345BDB734151C61D85B2&amp
